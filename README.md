@@ -1,5 +1,5 @@
 # AICHAN DISCORD
-Source bot ddos (simulation)
+Source bot ddos
 
 Bot using Python + Javascript languages
 
