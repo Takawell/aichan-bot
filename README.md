@@ -11,6 +11,3 @@ How to setup:
 + change token and roomID at alayar.json, user ID at bot.py
 + run file setup.py ( pip install if you miss some modules )
 + run file bot.py
-
-## CREDITS
-[!TELEGRAM](https://web.telegram.org/katavnn)
