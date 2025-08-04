@@ -3,7 +3,7 @@ const url = require('url');
 const net = require('net');
 if (process.argv.length <= 2) {
 	console.log("node HTTP-RAND.js url time");
-	console.log("Edit by emp001");
+	console.log("Edit by Taka");
 	process.exit(-1);
 }
 var target = process.argv[2];
