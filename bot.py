@@ -13,7 +13,7 @@ from discord.ext import commands
 from re import search
 import threading
 import psutil
-token = "ISI TOKEN BOT TOLOL"
+token = "your bot token"
 buyers = [743135879802912879]
 admins = [743135879802912879]
 ownerList = [743135879802912879]
