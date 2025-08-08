@@ -27,7 +27,7 @@ threading = ThreadPoolExecutor(max_workers=int(100000000))
 async def on_connect():
     print(f"Connecting Bot : {bot.user}")
     time.sleep(1.0)
-    print("Success, Bot Is Online !!!! Owner:katavnnn#8496")
+    print("Success, Bot Is Online !!!! Owner:!Taka")
 	
 
 
