@@ -11,8 +11,7 @@ Bot uses **Python** (controller) and **JavaScript** (attack modules)
 unzip node_modules.zip
 ```
 
-2. **Install Node.js**  
-[https://nodejs.org](https://nodejs.org)
+2. **Install [Node.js](https://nodejs.org)**
 
 3. **Configure**
 - Edit `config.json` → set `token` and `roomID`
