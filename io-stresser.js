@@ -6,7 +6,7 @@ const request = require('request'),
       cluster = require('cluster');
 async function main_process() {
     if (process.argv.length !== 6) {
-        console.log(`                   < CREATE BY IO-STRESSER AND WEARERAINBOWHAT >
+        console.log(`                   < CREATE BY IO-STRESSER AND TAKAWELL >
         Usage: node io-stresser.js <URL> <TIME> <TREADS> <bypass/proxy/proxy.txt>`);
         process.exit(0);
     }else{
