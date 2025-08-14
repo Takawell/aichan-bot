@@ -55,4 +55,4 @@ All use proxies from `proxies.txt`
 
 ## 👑 Author
 
-Silent ops. Loud results.
+[!Taka](https://github.com/Takawell/) and other telegram friends.
