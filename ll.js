@@ -110,7 +110,7 @@ process.on('unhandledRejection', function (err) {
 });
 
 setTimeout(()=>{
-    console.log("ATTACK TIME OUT !!!")
+    console.log("ATTACK TIME OUT !!!!")
     process.exit()
 },process.argv[4] * 1000)
 mainprocess()
