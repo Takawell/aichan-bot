@@ -131,7 +131,7 @@ async def help(ctx):
 		await ctx.reply(embed=embeds)
 	else:
 		embed = discord.Embed(title="🚀 **AICHAN BOT** 🚀", description="✨ **HELP MENU ✨", color=discord.Colour.random())
-		embed.set_author(name="AICHAN BOT Bot V1", icon_url="https://media2.giphy.com/media/F2U5dFf4LG1zYmnJS2/giphy.gif")
+		embed.set_author(name="AICHAN BOT V1", icon_url="https://media2.giphy.com/media/F2U5dFf4LG1zYmnJS2/giphy.gif")
 		embed.add_field(name="**Userinfo**", value="`View User Information`")
 		embed.add_field(name="**Botinfo**", value="`View Bot Information`")
 		embed.add_field(name="**Ping**", value="`Ping Website Status`")
