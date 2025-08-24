@@ -8,7 +8,7 @@ process.on('unhandledRejection', () => { "Hi" });
 if (process.argv.length <= 2) {
     console.log(`[Usage] node cf.js <url> <time> <threads>`);
     console.log(`[Example] node cf.js example.com 60`);
-    console.log(`[Warning] Do not use on .edu .gov domains`);
+    console.log(`[Warning] Do not use on .edu .gov .go.id domains`);
     process.exit(-1);
 }
 
