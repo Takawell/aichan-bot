@@ -1,7 +1,4 @@
-### just showing off
-![dstat](https://i.ibb.co/5gbDMDm8/1757331567742.jpg)
-
-# ⚡ AICHAN DISCORD BOT  
+### ⚡ AICHAN DISCORD BOT  
 
 Bot uses **Python** (controller) and **JavaScript** (attack modules)
 
